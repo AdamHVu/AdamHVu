@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Once a kid in high school with no direction other than a general interest in anything tech to working retail a while mostly to work on customer interaction and communication skills, I have found a path that I want to take. That being Data Science. Why? Simple enough, the way the world is headed, everything we do revolves around some sort of data visualizing and management and I find that intriguing. And as such, I took it upon myself to seek further education. Personally I do not like colleges as I feel that the general courses they provide no actual value so I searched further. I landed myself at Bloomtech because they provided projects that relate to the real job field and a modern cirrculum that should be more than sufficient! 
+
 I am currently a BloomTech Student studying up to become a Data Analyst / Scientist. 
 Subjects of study have included:
   - Data Wrangling, Statistical Analysis, and dabbled into Linear Algebra
