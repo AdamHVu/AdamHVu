@@ -3,7 +3,7 @@ Everything we do nowadays revolves around some sort of data visualizing and mana
 
 :bar_chart: Currently, I am furthering my experience and contributing to machine learning and data engineering projects.
 
-:gear: I am working on achieving my certification from graduating BloomTech’s data science and machine learning program.
+:gear: I have graduated from Bloomtech's data science program! 
 
 :mag_right: Key focus areas:
 
