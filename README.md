@@ -15,5 +15,5 @@ Delved into NLP and Neural Networks
 
 I am always looking for new opportunities and enjoy collaborating with like-minded individuals on projects that provide insight to facilitate informed decision making and valuable solutions.
 
-Can always contact me at vu.adamh@gmail.com or visit my Linked in at: https://www.linkedin.com/in/adamh-vu/
+One can always contact me at vu.adamh@gmail.com or visit my Linked in at: https://www.linkedin.com/in/adamh-vu/
 
