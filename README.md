@@ -13,7 +13,7 @@ Worked mostly in SQL and have touched upon a few other databases
 Delved into NLP and Neural Networks
 
 
-I am always looking for new opportunities and enjoy collaborating with like-minded individuals on projects that provide insight to facilitate informed decision making and valuable solutions.
+I am always looking for new opportunities and enjoy collaborating with like-minded individuals on projects that provide insight to facilitate informed decision making and valuable solutions. And for any recruiters, I implore you to take a chance!
 
 One can always contact me at vu.adamh@gmail.com or visit my Linked in at: https://www.linkedin.com/in/adamh-vu/
 
