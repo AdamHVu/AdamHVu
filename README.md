@@ -1,7 +1,7 @@
 ### Hi there 👋
 Everything we do nowadays revolves around some sort of data visualizing and management and I find that intriguing. And as such, I took it upon myself to seek further education and hands-on training in the field of Data Science.
 
-:bar_chart: Currently, I am furthering my experience and contributing to machine learning and data engineering projects.
+:bar_chart: Currently, I am furthering my experience and contributing to data analysis and data engineering projects.
 
 :gear: I have graduated from Bloomtech's data science program! 
 
