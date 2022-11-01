@@ -1,7 +1,7 @@
 ### Hi there 👋
 Everything we do nowadays revolves around some sort of data visualizing and management and I find that intriguing. And as such I took it upon myself to seek further education and hands-on training in the field of Data Science.
 
-:bar_chart: Currently, I am furthering my experience and contributing to data analysis and data engineering projects, trying to use SQL and Python extensively. Also actively looking into other fields that revolve around data and such! Also started an internship for a start-up so we will see how that goes! We have touched bases with Hubspot as of recent!
+:bar_chart: Currently, I am furthering my experience and contributing to data analysis and data engineering projects, trying to use SQL and Python extensively. Also actively looking into other fields that revolve around data and such! Also started an internship for a start-up so we will see how that goes! We have touched bases with Hubspot recently!
 
 :gear: I have graduated from Bloomtech's data science program! 
 
