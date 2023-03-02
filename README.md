@@ -10,7 +10,7 @@ In this modern day and age, everything we do revolves around some sort of data v
 Data Wrangling, Statistical Analysis, and dabbled into Linear Algebra
 Explored different Linear Models and various Data Visualizations
 Worked mostly in SQL and have touched upon a few other databases
-Delved into NLP and Neural Networks albeit briefly
+Delved into NLP and Neural Networks briefly
 
 
 I am always looking for new opportunities and enjoy collaborating with like-minded individuals on projects that provide insight to facilitate informed decision making and valuable solutions. And for any recruiters, I highly implore you to take a chance. Don't let the fact that just because I do not have a degree does not mean I cannot learn and adapt as well as someone who does have one would. 
