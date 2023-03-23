@@ -9,7 +9,7 @@ In this modern day and age, everything we do revolves around some sort of data v
 
 Data Wrangling, Statistical Analysis, and dabbled into Linear Algebra
 Explored different Linear Models and various Data Visualizations
-Worked mostly in SQL and have touched upon a few other databases
+Worked mostly in SQL
 Delved into NLP and Neural Networks briefly
 
 
