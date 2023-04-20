@@ -1,5 +1,5 @@
 ### Hi there 👋
-In this modern day and age, everything we do revolves around some sort of data visualizing and management and I find that intriguing. And as such I took it upon myself to seek further education and hands-on training in the field of Data Science.
+Currently , everything we do revolves around some sort of data visualizing and management and I find that intriguing. And as such I took it upon myself to seek further education and hands-on training in the field of Data Science.
 
 :bar_chart: Currently, I am increasing my experience and contributing to data analysis and data engineering projects, trying to use SQL and Tableau extensively. Also actively looking into other fields that revolve around data and such!
 
